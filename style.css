@@ -1,0 +1,53 @@
+
+
+.banerheader
+{
+    align-content: center;
+    text-align: center;
+    width: 640px;
+    height: 360px;
+}
+
+.content
+{
+    text-align: center;
+}
+
+button
+{
+    text-align: center;
+    background-color: mediumpurple; /* zielony */
+    color: white;
+    padding: 24px 48px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.strona
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+}
+
+.autorzy
+{
+    font-size: 70px;
+    padding: 10px;
+}
+
+.autorheader
+{
+    font-size: 40px;
+}
+
+.profilowe
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 1000px;
+}
